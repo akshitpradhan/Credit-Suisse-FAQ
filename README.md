@@ -1,8 +1,6 @@
-# TomTom
+# Credit Suisse
 
-WhatsApp Contextual Bot for interacting with all major TomTom API's
-
-Built for TOMTOM HACKATHON 2018
+Built for Credit Suisse HACKATHON 2018
 
 ## Getting Started
 
